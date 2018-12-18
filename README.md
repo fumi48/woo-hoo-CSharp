@@ -1,7 +1,7 @@
 ### すぐ忘れるのでまとめたい
 
 
-### Visual Studio Codeでなんかする
+##### Visual Studio Codeでなんかする（Visual Studioはもういらない模様）
 ```c#
 //コンソールアプリのひな形(Hello.csprojとProgram.csができる)
 >dotnet new console
@@ -10,3 +10,7 @@
 //実行
 >dotnet run
 ```
+
+- 機能拡張でNugetを入れておく。
+- Nuget:Add New Package で Newtonsoft.Jsonを入れておく。
+
