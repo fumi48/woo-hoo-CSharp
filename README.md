@@ -3,6 +3,11 @@
 
 ##### Visual Studio Codeでなんかする（Visual Studioはもういらない模様）
 ```c#
+//バージョン
+>dotnet --version
+//ヘルプ
+>dotnet --help
+>dotnet [コマンド] --help
 //コンソールアプリのひな形(Hello.csprojとProgram.csができる)
 >dotnet new console
 //ビルド
